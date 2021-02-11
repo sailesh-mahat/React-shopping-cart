@@ -3,50 +3,66 @@
         {
             "_id": "dress1",
             "image": "/images/dress1.jpg",
-            "title": "Dress 1",
-            "description": "This iis for all the latest trends....",
-            "availableSIzes": ["X", "L", "XL", "XXL"],
-            "price": 29.9
+            "title": "Printed Straight Kurta",
+            "description": "Black and gold-toned printed straight kurta, has a round neck, three-quarter sleeves, straight hem, side slits",
+            "availableSIzes": ["S", "M", "L", "XL", "XXL"],
+            "price": 12.99
         },
         {
-            "_id": "dress1",
-            "image": "/images/dress1.jpg",
-            "title": "Dress 1",
-            "description": "This iis for all the latest trends....",
-            "availableSIzes": ["X", "L", "XL", "XXL"],
-            "price": 29.9
+            "_id": "dress2",
+            "image": "/images/dress2.jpg",
+            "title": "Black & Green Printed Straight Kurta",
+            "description": "Black and green printed straight kurta, has a nitched round neck, three-quarter sleeves, straight hem, side slits",
+            "availableSIzes": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+            "price": 14.99
         },
         {
-            "_id": "dress1",
-            "image": "/images/dress1.jpg",
-            "title": "Dress 1",
-            "description": "This iis for all the latest trends....",
-            "availableSIzes": ["X", "L", "XL", "XXL"],
-            "price": 29.9
+            "_id": "dress3",
+            "image": "/images/dress3.jpg",
+            "title": "Pink Printed Straight Kurta",
+            "description": "Pink printed straight kurta, has a V-neck, three-quarter sleeves, straight hem, side slits",
+            "availableSIzes": ["S", "M", "L", "XL", "XXL"],
+            "price": 17.99
         },
         {
-            "_id": "dress1",
-            "image": "/images/dress1.jpg",
-            "title": "Dress 1",
-            "description": "This iis for all the latest trends....",
-            "availableSIzes": ["X", "L", "XL", "XXL"],
-            "price": 29.9
+            "_id": "dress4",
+            "image": "/images/dress4.jpg",
+            "title": "Folksy Floral Screen Print Cotton Kurta Set",
+            "description": "The robust flowy silhouette of this piece stands out on its own, as does the ethnic floral patterning all over. Crafted with precision, the intricate stencilling techniques and gotta lace panelling has given this kurta set a sharp edged finishing. If daily comfort with a design marvel is what you're looking for in your ethnic wear, then you've stumbled upon the right thing here!",
+            "availableSIzes": ["S", "M", "L", "XL", "XXL"],
+            "price": 24.99
         },
         {
-            "_id": "dress1",
-            "image": "/images/dress1.jpg",
-            "title": "Dress 1",
-            "description": "This iis for all the latest trends....",
-            "availableSIzes": ["X", "L", "XL", "XXL"],
-            "price": 29.9
+            "_id": "dress5",
+            "image": "/images/dress5.jpg",
+            "title": "Blue Printed Kurta with Trousers & Dupatta",
+            "description": "Blue printed kurta with trousers and dupatta. Blue straight knee-length printed kurta, has a keyhole neck, three-quarter sleeves, straight hem. Blue solid trousers, zip closure, partially elasticated. Blue printed dupatta.",
+            "availableSIzes": ["S","M", "L", "XL", "XXL"],
+            "price": 25.99
         },
         {
-            "_id": "dress1",
-            "image": "/images/dress1.jpg",
-            "title": "Dress 1",
-            "description": "This iis for all the latest trends....",
-            "availableSIzes": ["X", "L", "XL", "XXL"],
-            "price": 29.9
+            "_id": "dress6",
+            "image": "/images/dress6.jpg",
+            "title": "Hunter Green Gotta Chanderi Kurta Set with Festive Traditional Stole",
+            "description": "A true minimalists' choice, this kurta set is all about solid earthy tones and the striking juxtaposition of thronged ethnic prints. Crafted in quality Chanderi with minimal gotta piping accents, this can be accesorised to your heart's content to go as a simplistic day look or a festive night look as well. ",
+            "availableSIzes": ["S","M", "L", "XL", "XXL"],
+            "price": 19.99
+        },
+        {
+            "_id": "dress7",
+            "image": "/images/dress7.jpg",
+            "title": "Muted Hazelnut Geometric Yoke Kurta Set",
+            "description": "Chic yet understated, the Beige-ish Hazelnut colour pairs fabulously with the splash of vivid colors on the dupatta. The simple, straight silhouette of the kurta is minimally boisterous with noisy yoke print and solid fluidy palazzos. That added with the intense tonal grading of the dupatta, and Voila! We have an ethnic masterpiece here. ",
+            "availableSIzes": ["S","M", "L", "XL", "XXL"],
+            "price": 15.99
+        },
+        {
+            "_id": "dress8",
+            "image": "/images/dress8.jpg",
+            "title": "Lime Green & Blue Printed Kurta with Palazzos & Dupatta",
+            "description": "Lime green and blue printed kurta with palazzos and dupatta. Lime green and blue printed calf length straight kurta, has a round neck, short sleeves, side slits. Blue printed palazzos, has partially elasticated waistband, slip-on closure, two pockets. Blue solid dupatta, has taping border",
+            "availableSIzes": ["S","M", "L", "XL", "XXL"],
+            "price": 18.99
         }
 
     ]
