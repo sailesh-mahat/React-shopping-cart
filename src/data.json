@@ -1,0 +1,53 @@
+{
+    "products": [
+        {
+            "_id": "dress1",
+            "image": "/images/dress1.jpg",
+            "title": "Dress 1",
+            "description": "This iis for all the latest trends....",
+            "availableSIzes": ["X", "L", "XL", "XXL"],
+            "price": 29.9
+        },
+        {
+            "_id": "dress1",
+            "image": "/images/dress1.jpg",
+            "title": "Dress 1",
+            "description": "This iis for all the latest trends....",
+            "availableSIzes": ["X", "L", "XL", "XXL"],
+            "price": 29.9
+        },
+        {
+            "_id": "dress1",
+            "image": "/images/dress1.jpg",
+            "title": "Dress 1",
+            "description": "This iis for all the latest trends....",
+            "availableSIzes": ["X", "L", "XL", "XXL"],
+            "price": 29.9
+        },
+        {
+            "_id": "dress1",
+            "image": "/images/dress1.jpg",
+            "title": "Dress 1",
+            "description": "This iis for all the latest trends....",
+            "availableSIzes": ["X", "L", "XL", "XXL"],
+            "price": 29.9
+        },
+        {
+            "_id": "dress1",
+            "image": "/images/dress1.jpg",
+            "title": "Dress 1",
+            "description": "This iis for all the latest trends....",
+            "availableSIzes": ["X", "L", "XL", "XXL"],
+            "price": 29.9
+        },
+        {
+            "_id": "dress1",
+            "image": "/images/dress1.jpg",
+            "title": "Dress 1",
+            "description": "This iis for all the latest trends....",
+            "availableSIzes": ["X", "L", "XL", "XXL"],
+            "price": 29.9
+        }
+
+    ]
+}
